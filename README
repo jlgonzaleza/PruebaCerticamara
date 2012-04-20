@@ -1,0 +1,14 @@
+El proyecto es un proyecto en Maven
+Esta desarrollado en Netbeans 7.1 con jdk 1.7
+Se puede desplegar tanto en un servidor tomcat como en un glassfish(preferiblemente)
+
+falta:
+
+-diseño
+-validaciones (campos numericos, obligatorios, etc)
+-Eliminar productos cuando
+	-se elimina una bodega
+	-se elimina un productor
+
+se deben crear primero bodegas y productores para poder crear productos puesto que este necesita
+ser asociado a los 2.
